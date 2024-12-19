@@ -1,2 +1,2 @@
-**Live Site URL:** [JobPortal Live,_blank](https://job-portal-19ea3.web.app)
+**Live Site URL:** [JobPortal Live](https://job-portal-19ea3.web.app){:target="_blank"}
 
